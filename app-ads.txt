@@ -63,3 +63,6 @@ indexexchange.com, 194730, RESELLER, 50b1c356f2c5c8fc
 indexexchange.com, 186684, RESELLER, 50b1c356f2c5c8fc
 liftoff.io, 7f6945815e6, RESELLER
 contextweb.com, 562499, RESELLER, 89ff185a4c4e857c
+bidease.com, exchange-20, RESELLER
+yeahmobi.com, 5135195, RESELLER
+admixplay.com, 2012, RESELLER
