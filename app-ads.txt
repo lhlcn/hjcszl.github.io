@@ -135,3 +135,4 @@ google.com, pub-8890184131363985, RESELLER, f08c47fec0942fa0
 inmobi.com, 7847fe1f9ac54b4abe609cde4011243b, RESELLER, 83e75a7ae333ca9d
 pubmatic.com, 163420, RESELLER, 5d62403b186f2ace
 Xapads.com, 155860, RESELLER
+google.com, pub-9332288724268687, DIRECT, f08c47fec0942fa0
