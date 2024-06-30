@@ -130,7 +130,6 @@ pokkt.com, 7606, RESELLER, c45702d9311e25fd
 yeahmobi.com, 5135195, RESELLER
 adcolony.com, 0a0f72cd66122f31, RESELLER, 1ad675c9de6b5176
 adcolony.com, 801e49d1be83b5f9, RESELLER, 1ad675c9de6b5176
-google.com, pub-9332288724268687, DIRECT, f08c47fec0942fa0
 google.com, pub-8890184131363985, RESELLER, f08c47fec0942fa0
 inmobi.com, 7847fe1f9ac54b4abe609cde4011243b, RESELLER, 83e75a7ae333ca9d
 pubmatic.com, 163420, RESELLER, 5d62403b186f2ace
